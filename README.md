@@ -1,5 +1,3 @@
-    Query successful
-
 🎮 2048 in Python
 
 This is a Python implementation of the classic 2048 game using the pygame library.
